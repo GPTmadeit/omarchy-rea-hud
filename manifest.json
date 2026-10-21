@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "gptmadeit.rea-hud",
+  "name": "REA HUD",
+  "version": "1.0.0",
+  "author": "GPTmadeit",
+  "license": "MIT",
+  "description": "Animated drop-down HUD showing the current REA job, status, and files while Claude Code runs reverse-engineering tools.",
+  "kinds": ["panel"],
+  "keepLoaded": true,
+  "entryPoints": {
+    "panel": "Hud.qml"
+  }
+}
